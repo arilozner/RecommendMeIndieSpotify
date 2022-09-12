@@ -1,0 +1,219 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: rgba(255,255,255,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 725px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 3.2px 0;
+  position: relative;
+  width: 1083.16px;
+}
+.desktop-1 .button-green-Kn0Wjy {
+  background-color: rgba(0,190,53,1.0);
+  border-radius: 18.86056137084961px;
+  height: 92px;
+  left: 38px;
+  position: absolute;
+  top: 58px;
+  width: 213px;
+}
+.desktop-1 .button-white-Kn0Wjy {
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 18.86056137084961px;
+  height: 65px;
+  left: 48px;
+  position: absolute;
+  top: 71px;
+  width: 192px;
+}
+.desktop-1 .click-here-Kn0Wjy {
+  background-color: transparent;
+  height: 24px;
+  left: 74px;
+  position: absolute;
+  top: 92px;
+  width: 140px;
+}
+.desktop-1 .discover-artist-your-new-faves-4eduM0 {
+  background-color: transparent;
+  height: 87px;
+  left: 324px;
+  position: absolute;
+  top: 463px;
+  width: 470px;
+}
+.desktop-1 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 33px;
+  justify-content: flex-start;
+  margin-left: 15.46px;
+  margin-top: 2px;
+  min-width: 392px;
+  position: relative;
+  width: auto;
+}
+.desktop-1 .get-your-recommended-4eduM0 {
+  background-color: transparent;
+  height: 88px;
+  left: 379px;
+  position: absolute;
+  top: 216px;
+  width: 348px;
+}
+.desktop-1 .group-1-4eduM0 {
+  background-color: transparent;
+  height: 208px;
+  left: 423px;
+  position: absolute;
+  top: 291px;
+  width: 291px;
+}
+.desktop-1 .group-2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 1085px;
+}
+.desktop-1 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 623px;
+  margin-left: -0.42px;
+  margin-top: 4px;
+  position: relative;
+  width: 1084px;
+}
+.desktop-1 .recommend-me-in-sure-youll-love-4eduM0 {
+  background-color: transparent;
+  height: 118px;
+  left: 34px;
+  position: absolute;
+  top: 46px;
+  width: 417px;
+}
+.desktop-1 .recommend-me-indie-zUixHA {
+  background-color: transparent;
+  height: 22px;
+  left: 432px;
+  position: absolute;
+  top: 14px;
+  width: 272px;
+}
+.desktop-1 .rectangle-8-4eduM0 {
+  background-color: rgba(196,196,196,0.3);
+  border-radius: 37.72112274169922px;
+  height: 149px;
+  left: 14px;
+  position: absolute;
+  top: 27px;
+  width: 446px;
+}
+.desktop-1 .top-bar-green-zUixHA {
+  background-color: rgba(39,229,92,1.0);
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 1083px;
+}
+.desktop-1 .top-bar-grey-zUixHA {
+  background-color: rgba(196,196,196,1.0);
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1083px;
+}
+.desktop-1 .vector-7crjq3 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-bottom: 1.0px;
+  margin-left: 23px;
+  position: relative;
+  width: 28px;
+}
+.desktop-1 .vector-EDxlGj {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 30px;
+  margin-left: 23px;
+  position: relative;
+  width: 30px;
+}
+.desktop-1 .vector-Ie9Mvc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 23px;
+  margin-top: 0.1px;
+  position: relative;
+  width: 24px;
+}
+.desktop-1 .vector-U4Yp1F {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 23px;
+  margin-top: 0.1px;
+  position: relative;
+  width: 28px;
+}
+.desktop-1 .vector-Xi618D {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 26px;
+  margin-left: 23px;
+  position: relative;
+  width: 25px;
+}
+.desktop-1 .vector-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 26px;
+  position: relative;
+  width: 32px;
+}
+.desktop-1 .vector-fcKxdx {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-bottom: 1.0px;
+  margin-left: 23px;
+  position: relative;
+  width: 30px;
+}
+.desktop-1 .vector-ycScJA {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 23px;
+  margin-top: 0.1px;
+  position: relative;
+  width: 32px;
+}
+.desktop-1 .x40103092762b52a07ea04b-1-4eduM0 {
+  background-color: transparent;
+  height: 623px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1084px;
+}
